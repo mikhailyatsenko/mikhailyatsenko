@@ -23,6 +23,7 @@
    </a>
   <br />
 </div>
+<br>
 
 Open to internship opportunities to further enhance my skills and contribute effectively.
 Eager to learn and apply new technologies in a hands-on environment.
