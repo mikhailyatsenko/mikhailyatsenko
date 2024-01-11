@@ -28,6 +28,6 @@
 Open to internship opportunities to further enhance my skills and contribute effectively.
 Eager to learn and apply new technologies in a hands-on environment.
 
-🙏 Thank you for considering my profile, and I look forward to the opportunity to contribute to your projects!
+🙏 Thank you for considering my profile!
 
 <br>
