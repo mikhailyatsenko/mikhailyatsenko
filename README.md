@@ -25,6 +25,26 @@
 </div>
 <br>
 
+<h3>My stack:</h3>
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img alt="html" title="HTML5" src="img/html5-original-wordmark.svg" height="40"/> </a>&nbsp; 
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img alt="css" title="CSS" src="img/css3-original-wordmark.svg" height="40"/> </a>&nbsp; 
+<a href="https://sass-lang.com/" target="_blank"> <img alt="sass" title="SASS" src="img/sass-original.svg" height="40"/> </a>&nbsp; 
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="js" title="JavaScript" src="img/javascript-original.svg" height="40"/> </a>&nbsp; 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img alt="ts" title="TypeScript" src="img/typescript-original.svg" height="40"/> </a>&nbsp; 
+<a href="https://reactjs.org/" target="_blank"> <img alt="react" title="React" src="img/react-original-wordmark.svg" height="40"/> </a>&nbsp;
+<a href="https://nodejs.org/en" target="_blank"> <img alt="nodejs" title="Nodejs" src="img/nodejs.png" height="40"/> </a>&nbsp; 
+<a href="https://webpack.js.org/" target="_blank"> <img alt="webpack" title="Webpack" src="img/webpack-original.svg" height="40"/> </a>&nbsp; 
+<a href="https://jestjs.io/" target="_blank"> <img alt="jest" title="Jest" src="img/jest-plain.svg" height="40"/> </a>&nbsp; 
+<a href="https://eslint.org/" target="_blank"> <img alt="eslint" title="Eslint" src="img/eslint.png" height="40"/> </a>&nbsp; 
+<a href="https://prettier.io/" target="_blank"> <img alt="prettier" title="Prettier" src="img/prettier.svg" height="40"/> </a>&nbsp; 
+<a href="https://docs.github.com/en" target="_blank"> <img alt="github" title="Github" src="img/github-original-wordmark.svg" height="40"/> </a>&nbsp; 
+<a href="https://www.figma.com/" target="_blank"> <img alt="figma" title="Figma" src="img/figma-original.svg" height="40"/> </a>&nbsp; 
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img alt="photoshop" title="Photoshop" src="img/photoshop-line.svg" height="40"/> </a>&nbsp; 
+</div>
+
+<br>
+
 Open to internship opportunities to further enhance my skills and contribute effectively.
 Eager to learn and apply new technologies in a hands-on environment.
 
