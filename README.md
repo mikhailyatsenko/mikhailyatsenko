@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C519&center=true&random=false&width=435&lines=Frontend+Developer" alt="Typing SVG" />
 </div>
 
-📍 I am currently in Berlin.
-
 <div align="left">
   <a href="https://t.me/mikhailyatsenko" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
