@@ -1,6 +1,6 @@
 <h1 align="center">  Hi, I'm Mykhailo 👋 </h1>
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C519&center=true&random=false&width=435&lines=Frontend+Developer" alt="Typing SVG" />
+ <h3>Frontend Developer</h3>
 </div>
 
 <div align="left">
@@ -40,12 +40,3 @@
 <a href="https://www.figma.com/" target="_blank"> <img alt="figma" title="Figma" src="img/figma-original.svg" height="40"/> </a>&nbsp; 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img alt="photoshop" title="Photoshop" src="img/photoshop-line.svg" height="40"/> </a>&nbsp; 
 </div>
-
-<br>
-
-Open to internship opportunities to further enhance my skills and contribute effectively.
-Eager to learn and apply new technologies in a hands-on environment.
-
-Thank you for considering my profile!
-
-<br>
